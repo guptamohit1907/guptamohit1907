@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptamohit1907" alt="guptamohit1907" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guptamohit1907?tab=repositories](https://github.com/guptamohit1907?tab=repositories)
 
